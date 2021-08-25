@@ -20,5 +20,8 @@ npm i -g live-server
 ```
 - You can fork and clone this project or [download the zip](https://github.com/vanzasetia/practice-file-path/archive/refs/heads/master.zip)
 
+## ⚠️ Attention ⚠️
+Make sure that you run the `live-server .` on the `challenge-1/`, `challenge-2/`, and `challenge-3/` folders or else it won't behave as the expected.
+
 ## License
 > This project is under [MIT license](https://github.com/vanzasetia/practice-file-path/blob/master/LICENSE)
