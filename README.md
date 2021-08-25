@@ -1,5 +1,7 @@
+![Banner](./images/banner.jpg)
+
 # Starter Files for Practicing Absolute and Relative Paths
-This is a challenge coming from the [Code Newbie blog post about absolute path vs relative path]()
+I recommend to read this [Code Newbie blog post about absolute path vs relative path](). If you have a good knowledge about it, feel free to do the challenge.
 
 ## Overview
 This includes 3 part challenge, where the first one is the easiest challenge and the third challenge is the hardest challenge.
@@ -22,6 +24,20 @@ npm i -g live-server
 
 ## ⚠️ Attention ⚠️
 Make sure that you run the `live-server .` on the `challenge-1/`, `challenge-2/`, and `challenge-3/` folders or else it won't behave as the expected.
+
+## Solutions
+
+### Challenge 1
+
+![Solution](./images/challenge-1.jpg)
+
+### Challenge 2
+
+![Solution](./images/challenge-2.jpg)
+
+### Challenge 3
+
+![Solution](./images/challenge-3.jpg)
 
 ## License
 > This project is under [MIT license](https://github.com/vanzasetia/practice-file-path/blob/master/LICENSE)
