@@ -1,4 +1,5 @@
 # Starter Files for Practicing Absolute and Relative Paths
+This is a challenge coming from the [Code Newbie blog post about absolute path vs relative path]()
 
 ## Overview
 This includes 3 part challenge, where the first one is the easiest challenge and the third challenge is the hardest challenge.
