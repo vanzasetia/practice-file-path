@@ -17,7 +17,7 @@ apt update && pkg upgrade -y && pkg install nodejs
 ```shell
 npm i -g live-server
 ```
-- You can fork and clone this project or [download the zip]()
+- You can fork and clone this project or [download the zip](https://github.com/vanzasetia/practice-file-path/archive/refs/heads/master.zip)
 
 ## License
-> This project is under [MIT license]()
+> This project is under [MIT license](https://github.com/vanzasetia/practice-file-path/blob/master/LICENSE)
