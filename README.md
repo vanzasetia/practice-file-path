@@ -1,7 +1,7 @@
 ![Banner](./images/banner.jpg)
 
 # Starter Files for Practicing Absolute and Relative Paths
-I recommend to read this [Code Newbie blog post about absolute path vs relative path](). If you have a good knowledge about it, feel free to do the challenge.
+I recommend to read this [Code Newbie blog post about absolute path vs relative path](https://community.codenewbie.org/vanzasetia/relative-vs-absolute-file-paths-4j1n). If you have a good knowledge about it, feel free to do the challenge.
 
 ## Overview
 This includes 3 part challenge, where the first one is the easiest challenge and the third challenge is the hardest challenge.
